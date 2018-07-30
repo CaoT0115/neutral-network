@@ -1,5 +1,5 @@
 # input --> { neuron(fc_cache) --> relu(relu_cache) --> } softmax loss
-#             wi, bi --> hi
+#             xi, wi, bi --> hi
 
 class network(object):
 
