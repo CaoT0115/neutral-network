@@ -1,6 +1,6 @@
 class TwoLayer(object): 
 	def __init__(self,
-	            input_dim = 3*32*32, # data dimension   
+	            input_dim = 28*28, # data dimension   
 	            hidden_dim = 100, # nuerons in hidden layer      
 	            num_classes = 10, # labels        
 	            weight_scale = 1e‐3,
